@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pkl
+*.h5
+*.pt
+*.pth
+.env
+data/raw/
+data/processed/
+models/
