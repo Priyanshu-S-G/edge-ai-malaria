@@ -1,3 +1,5 @@
+import torch
+import torch.nn as nn
 from torchvision.models import efficientnet_b0
 
 def get_efficientnet(num_classes=2):
